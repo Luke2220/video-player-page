@@ -1,0 +1,29 @@
+.main
+{
+    margin-left: 25%;
+    margin-right: 30%;
+
+}
+
+.comments
+{
+    margin-top:25%;
+    margin-bottom: 10%;
+    background-color: red;
+}
+
+.video-recomendations
+{
+    margin-left:75%;
+    background-color: aquamarine;
+    display:inline;
+    float:right;
+    
+}
+
+img
+{
+   height: 200px;;
+   width:200px;
+   margin-bottom:15px;
+}
