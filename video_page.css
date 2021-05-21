@@ -1,22 +1,24 @@
+body{
+    background-color: rgb(97, 144, 190);
+}
+
 .main
 {
-    margin-left: 25%;
-    margin-right: 30%;
+    margin-left: 350px;
 
 }
 
 .comments
 {
-    margin-top:25%;
-    margin-bottom: 10%;
+    margin:200px 450px 15px 100px;
     background-color: red;
 }
 
 .video-recomendations
 {
-    margin-left:75%;
-    background-color: aquamarine;
-    display:inline;
+    margin-right:70px;
+  
+    background-color: rgb(165, 140, 103);
     float:right;
     
 }
@@ -26,4 +28,5 @@ img
    height: 200px;;
    width:200px;
    margin-bottom:15px;
+   margin-left: 20px;
 }
